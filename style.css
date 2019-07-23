@@ -1,0 +1,16 @@
+h1{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 45%;
+}
+.searchbar {
+    top: 57%;
+    left: 45%;
+    margin: 0;
+    position: absolute;
+}
+
+.toprightnav{
+    text-align: right;
+}
